@@ -1,0 +1,17 @@
+[
+  {
+    "doctor_id": "doctor-li",
+    "title": "随访任务提醒",
+    "content": "{demo_name}的「电话随访 - 症状变化」将于明天到期"
+  },
+  {
+    "doctor_id": "doctor-li",
+    "title": "技能更新",
+    "content": "「张医生的高频问诊单」发布了新版本 v1.2"
+  },
+  {
+    "doctor_id": "doctor-li",
+    "title": "系统通知",
+    "content": "智能助理已成功链接，所有已启用技能就绪"
+  }
+]

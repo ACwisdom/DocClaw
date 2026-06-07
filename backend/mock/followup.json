@@ -1,0 +1,32 @@
+{
+  "demo_patient_slug": "patient-zhang-san",
+  "doctor_id": "doctor-li",
+  "plan": {
+    "title_suffix": "感染复查随访",
+    "description": "咳嗽低热待查，2周后复查",
+    "skill_id": "skill-followup",
+    "created_at_offset_days": -5,
+    "created_at_offset_hours": -3,
+    "created_at_offset_minutes": -22
+  },
+  "tasks": [
+    {
+      "title": "复查血常规与CRP",
+      "description": "评估感染指标变化",
+      "scheduled_at_offset_days": 14,
+      "scheduled_at_offset_hours": 9,
+      "scheduled_at_offset_minutes": 30,
+      "scheduled_at_offset_seconds": 15,
+      "status": "pending"
+    },
+    {
+      "title": "电话随访 - 症状变化",
+      "description": "询问咳嗽、发热是否改善",
+      "scheduled_at_offset_days": 7,
+      "scheduled_at_offset_hours": 14,
+      "scheduled_at_offset_minutes": 45,
+      "scheduled_at_offset_seconds": 8,
+      "status": "pending"
+    }
+  ]
+}

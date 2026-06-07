@@ -1,0 +1,25 @@
+{
+  "demo_patient_slug": "patient-zhang-san",
+  "messages": [
+    {
+      "role": "system",
+      "message_type": "welcome",
+      "content": "已进入 {demo_name} 的问诊工作台。你可以开始记录对话、上传资料或启动录音，门诊病历会持续同步整理。"
+    },
+    {
+      "role": "assistant",
+      "message_type": "analysis",
+      "content": "**问诊分析摘要**\n\n- 咳嗽性质：需进一步确认干咳/湿咳、昼夜规律\n- 发热特点：午后低热，需记录具体温度范围与持续时间\n- 流行病学：需询问接触史、旅行史\n- 建议补充查体：体温、肺部听诊、咽部检查\n- 建议辅助检查：血常规、CRP、必要时胸片\n\n**初步记录意见**：反复咳嗽三周伴午后低热，需排除感染性与非感染性病因。"
+    },
+    {
+      "role": "doctor",
+      "message_type": "text",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "message_type": "text",
+      "content": "在的。当前处于**病历助手模式**。\n\n目前已知信息较少：{demo_name}，男，26 岁，主诉为\"反复咳嗽三周，伴午后低热\"。可继续录入问诊内容、查体、既往史、用药史、过敏史或检查结果；如需要，我可以在信息补充后整理为门诊病历。"
+    }
+  ]
+}
