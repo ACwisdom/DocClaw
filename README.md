@@ -214,7 +214,6 @@ python scripts/import_clawhub_skills.py --slug pubmed-search-skill
 
 ## 相关链接
 
-- 参考平台：http://8.129.104.224/queue
 - ClawHub 技能市场：https://clawhub.ai/
 
 ---
