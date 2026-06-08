@@ -1,3 +1,4 @@
+演示视频网址：https://www.bilibili.com/video/BV1SBEb6yEjM/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c3a48128014f3ec78c828421261d4954
 # DocClaw · 医疗 AI 工作台
 
 DocClaw（目标产品名 **DoctorClaw**）是一个面向医生的医疗 Skills 管理平台：医生可启用、自定义、发布 AI 技能，在问诊过程中获得实时辅助，并管理随访等计划性任务。
